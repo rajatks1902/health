@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Health-Calculator/static/css/main.891b2cc1.css",
+    "main.js": "/Health-Calculator/static/js/main.fbae5ce2.js",
+    "static/media/back.jpg": "/Health-Calculator/static/media/back.bdca8b3de768cf316f72.jpg",
+    "static/media/bodyback.jpg": "/Health-Calculator/static/media/bodyback.1fe44c83dab456afa711.jpg",
+    "index.html": "/Health-Calculator/index.html",
+    "main.891b2cc1.css.map": "/Health-Calculator/static/css/main.891b2cc1.css.map",
+    "main.fbae5ce2.js.map": "/Health-Calculator/static/js/main.fbae5ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891b2cc1.css",
+    "static/js/main.fbae5ce2.js"
+  ]
+}
